@@ -1,1 +1,1 @@
-lis351-toczycki.github.io
+atoczycki.github.io
