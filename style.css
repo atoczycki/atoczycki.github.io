@@ -1,0 +1,86 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f5f5dc;
+    padding: 10px;
+}
+
+h1 {
+    color: #3102eb;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 75%;
+    max-width: 1000px;
+    height: auto;
+}
+
+h2 {
+    color: #3102eb;
+    font-size: 20px;
+}
+
+p {
+    font-size: 18px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+nav ul {
+    background: #ebc6f1;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+    color: #3102eb
+}
+
+.bold-link {
+    font-weight: bold;
+}
+
+.twitter-container {
+    width: 400px;
+    height: 500px;
+    overflow-y: scroll;
+    border: 2px solid #1DA1F2;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #f5f5f5;
+}
+
+.cardinal-container {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+    patting-bottom: 20px;
+}
+
+.cardinal-image-container {
+    width: 150px;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.cardinal-image-container img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.cardinal-image-container figcaption {
+    font-size: 0.7em;
+    margin-top: 5px;
+    color: #555;
+}
+
+.cardinal-description {
+    flex: 1;
+}
