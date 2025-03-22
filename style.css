@@ -42,12 +42,16 @@ nav ul li {
     color: #3102eb
 }
 
+dt {
+    font-weight: bold;
+}
+
 .bold-link {
     font-weight: bold;
 }
 
 .twitter-container {
-    width: 400px;
+    width: 300px;
     height: 500px;
     overflow-y: scroll;
     border: 2px solid #1DA1F2;
